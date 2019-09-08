@@ -3,7 +3,7 @@
 Welcome to Vocabtion! The is a flashcard-like command line app that helps you learn vocabulary -- but with a twist. You will be shown a word and be required to type in the definition (however you choose to word it). All you need to do is provide a file of vocab words for the program to ingest.
 
 Example:
-![alt text](/images/example.png)
+![alt text](images/example.PNG)
 
 
 ### Usage
