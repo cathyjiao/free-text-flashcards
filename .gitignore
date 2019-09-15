@@ -4,3 +4,7 @@ venv/
 
 # IDEs
 .idea
+
+# python
+__pycache__
+*.pyc
