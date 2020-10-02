@@ -23,16 +23,16 @@ class Install(_install):
 
 
 setup(
-    name='vocabtion',
+    name='vocabtester',
     version='1.0.0',
-    description='interactive vocabulary tester',
+    description='free text vocabulary tester',
     long_description=readme,
     author='Cathy Jiao',
     author_email='cathy.jiao@mgmail.com',
     license=license,
     packages=find_packages(),
     package_data={
-        'vocabtion': [
+        'vocabtester': [
             'data/*.json',
             'vocab/*.txt'
         ]
